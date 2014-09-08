@@ -38,10 +38,10 @@ module.exports = function(grunt){
     watch: {
       src: {
         files: ['src/css/main.less','src/css/main.css', 'src/js/main.js','src/index.html'],
-        tasks: ['build'],
+        tasks: ['build']
       }
-   	}
-	});
+  	}
+  });
 
   // Add plugins
   grunt.loadNpmTasks('grunt-contrib-less');
