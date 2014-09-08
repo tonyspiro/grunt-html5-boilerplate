@@ -5,10 +5,11 @@ Grunt Initializr is an HTML5 boilerplate with added [Grunt](http://gruntjs.com/)
 
 ##Getting Started
 
-Clone the repo, cd into it and run either of the following commands:
+Clone the repo, cd into it and run grunt:
 ```
+git@github.com:tonyspiro/grunt-initializr.git
+cd grunt-initializr
 grunt
-grunt watch
 ```
 
 Grunt will:<br>
