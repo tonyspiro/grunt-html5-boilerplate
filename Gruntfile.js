@@ -2,7 +2,7 @@
 
 module.exports = function(grunt){
 
-	grunt.initConfig({
+  grunt.initConfig({
     less: {
       production: {
 
