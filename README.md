@@ -1,6 +1,6 @@
 #Grunt Initializr
 
-Grunt Initializr is an HTML5 boilerplate with added Grunt task managment functionality.  It is gives you an easy start to any web project by including the great foundation provided by a Bootstrap version of Initializr and also adds the streamlined workflow power of Grunt JS to output your code in a minified and easily organized.
+Grunt Initializr is an HTML5 boilerplate with added Grunt task managment functionality.  It is gives you an easy start to any web project by including the great foundation provided by [Bootstrap Initializr](http://www.initializr.com/) and also adds the streamlined workflow power of Grunt JS to output your code minified and easily organized.
 
 
 ##Getting Started
