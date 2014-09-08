@@ -50,6 +50,7 @@ module.exports = function(grunt){
   grunt.loadNpmTasks('grunt-contrib-htmlmin');
   grunt.loadNpmTasks('grunt-contrib-watch');
 
+  // Register tasks
   grunt.registerTask('build', ['less', 'uglify','cssmin','htmlmin']);
   grunt.registerTask('default', ['less', 'uglify','cssmin','htmlmin']);
 
