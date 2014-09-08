@@ -18,3 +18,5 @@ Grunt will:<br>
 
 ##Grunt.js
 This file includes a less preprocessor, javascript minification, css minification, html minification and <code>grunt watch</code> which runs the command when any of the watch files are edited.
+
+Feel free to fork, add / edit the process and send me feedback.  Find me on twitter [@tonyspiro](http://twitter.com/tonyspiro).
