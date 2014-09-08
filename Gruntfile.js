@@ -40,7 +40,7 @@ module.exports = function(grunt){
         files: ['src/css/main.less','src/css/main.css', 'src/js/main.js','src/index.html'],
         tasks: ['build']
       }
-  	}
+    }
   });
 
   // Add plugins
