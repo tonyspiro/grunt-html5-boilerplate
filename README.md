@@ -7,7 +7,8 @@ The structure includes a <code>src</code> folder which compiles to the <code>dis
 
 
 ##Grunt.js
-This file includes a less preprocessor, uglify, cssmin, htmlmin nad the ability to watch as the files are edited.
+This file includes a less preprocessor, uglify, cssmin, htmlmin with <code>grunt watch</code> runs the program as any of the watch files are edited.
+
 Run either of the following commands:
 ```
 grunt
