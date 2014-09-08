@@ -11,7 +11,7 @@ grunt
 grunt watch
 ```
 
-When you run either of the commands grunt will:<br>
+Grunt will:<br>
 1. Process <code>src/css/main.less</code> into <code>src/css/main.css</code> and minify the css and save to <code>dist/css/main.min.css</code>.<br>
 2. Minify <code>src/js/main.js</code> and save to <code>dist/js/main.min.js</code>.<br>
 3. Minify <code>src/index.html</code> and save to <code>index.html</code>.<br>
