@@ -5,7 +5,7 @@ Grunt Initializr is an HTML5 boilerplate with added Grunt task managment functio
 
 ##Getting Started
 
-Run either of the following commands:
+Clone the repo, cd into it and run either of the following commands:
 ```
 grunt
 grunt watch
