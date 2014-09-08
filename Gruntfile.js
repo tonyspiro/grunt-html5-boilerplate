@@ -5,7 +5,6 @@ module.exports = function(grunt){
   grunt.initConfig({
     less: {
       production: {
-
         files: {
           "src/css/main.css": "src/css/main.less"
         }
