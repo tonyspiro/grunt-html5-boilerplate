@@ -4,13 +4,17 @@ Grunt Initializr is an HTML5 boilerplate with added Grunt task managment functio
 
 
 ##Getting Started
-The structure includes a <code>src</code> folder which compiles to the <code>dist</code> folder and the <code>src/index.html</code> will minify to the <code>/index.html</code> file.
 
 Run either of the following commands:
 ```
 grunt
 grunt watch
 ```
+
+When you run the Grunt command grunt will:
+1. Process <code>src/css/main.less</code> into <code>src/css/main.css</code> and minify the css and save to <code>dist/css/main.min.css</code>.
+2. Minify <code>src/js/main.js</code> and save to <code>dist/js/main.min.js</code>.
+3. Minify <code>src/index.html</code> and save to <code>index.html</code>.
 
 ##Grunt.js
 This file includes a less preprocessor, uglify, cssmin, htmlmin with <code>grunt watch</code> runs the program as any of the watch files are edited.
