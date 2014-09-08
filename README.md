@@ -17,7 +17,7 @@ When you run either of the commands grunt will:<br>
 3. Minify <code>src/index.html</code> and save to <code>index.html</code>.<br>
 
 ##Grunt.js
-This file includes a less preprocessor, javascript uglify, css minification, html minification and <code>grunt watch</code> which runs the command when any of the watch files are edited.
+This file includes a less preprocessor, javascript compiler and minification, css minification, html minification and <code>grunt watch</code> which runs the command when any of the watch files are edited.
 
 Grunt.js
 ```
