@@ -2,25 +2,34 @@
 
 module.exports = function(grunt){
 
+  /* Configure
+  ============================ */
+  var configs = {   
+    css_combine_files : ['dist/css/bootstrap.min.css', 'src/css/main.css'],
+    watch_files : ['src/css/variables.less','src/css/main.less','src/css/main.css', 'src/js/main.js','src/index.html']
+  }
+
+  /* Init
+  ============================ */
   grunt.initConfig({
     less: {
       production: {
         files: {
-          "src/css/main.css": "src/css/main.less"
+          "src/css/main.css" : "src/css/main.less"
         }
       }
     },
     uglify: {
         my_target: {
           files: {
-            'dist/js/main.min.js': 'src/js/main.js'
+            'dist/js/main.min.js' : 'src/js/main.js'
           }
         }
     },
 		cssmin: {
       combine: {
         files: {
-          'dist/css/main.min.css': ['dist/css/bootstrap.min.css', 'src/css/main.css']
+          'dist/css/main.min.css' : configs.css_combine_files
         }
       }
     },
@@ -31,13 +40,13 @@ module.exports = function(grunt){
             collapseWhitespace: true
         },
         files: {
-                'index.html': 'src/index.html'
+                'index.html' : 'src/index.html'
             }
         }
     },
     watch: {
       src: {
-        files: ['src/css/main.less','src/css/main.css', 'src/js/main.js','src/index.html'],
+        files: configs.watch_files,
         tasks: ['build']
       }
     }
