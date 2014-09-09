@@ -11,6 +11,10 @@ git clone git@github.com:tonyspiro/grunt-initializr.git
 cd grunt-initializr
 grunt
 ```
+You can also run this command to watch files for edits:
+```
+grunt watch
+```
 
 Grunt will:<br>
 1. Process <code>src/css/main.less</code> into <code>src/css/main.css</code> and minify the css and save to <code>dist/css/main.min.css</code>.<br>
