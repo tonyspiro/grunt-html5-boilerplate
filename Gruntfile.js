@@ -5,8 +5,8 @@ module.exports = function(grunt){
   /* Configure
   ============================ */
   var configs = {   
-    css_combine_files : ['dist/css/bootstrap.min.css', 'src/css/main.css'],
-    watch_files : ['src/css/variables.less','src/css/main.less','src/css/main.css', 'src/js/main.js','src/index.html']
+    css_combine_files : ['dist/css/bootstrap.min.css', 'dist/css/main.css'],
+    watch_files : ['src/less/variables.less','src/less/main.less','src/less/main.css', 'src/js/main.js','src/index.html']
   }
 
   /* Init
@@ -15,7 +15,7 @@ module.exports = function(grunt){
     less: {
       production: {
         files: {
-          "src/css/main.css" : "src/css/main.less"
+          "src/less/main.css" : "src/less/main.less"
         }
       }
     },
