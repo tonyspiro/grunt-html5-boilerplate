@@ -4,7 +4,7 @@ Grunt Initializr is an HTML5 boilerplate with added [Grunt](http://gruntjs.com/)
 
 It is built for easy organization, scalability and speed in mind:
 
-Break your LESS files out into easily managed components, add JS files and after grunt does its thing, you are left with just ONE CSS FILE and ONE JS FILE.
+Break your LESS files out into easily managed components, add JS files and after grunt does its thing, you are left with just ONE MINIFIED CSS FILE and ONE MINIFIED JS FILE.
 
 
 ##Getting Started
