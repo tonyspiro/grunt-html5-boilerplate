@@ -1,8 +1,8 @@
 #Grunt Initializr
 
-Grunt Initializr is an HTML5 boilerplate with added [Grunt](http://gruntjs.com/) task managment functionality.  It gives you an easy start to any web project by including the [Bootstrap Initializr](http://www.initializr.com/) and also adds the streamlined workflow power of Grunt JS to output your code minified and easily organized.
+Grunt Initializr is an HTML5 boilerplate with added [Grunt](http://gruntjs.com/) task managment functionality.  It gives you an easy start to any web project by including the [Bootstrap Initializr](http://www.initializr.com/) and also adds the streamlined workflow power of Grunt to output your code minified and easily organized.
 
-It includes a very clear and organized folder and file structure that will give a great start for any web project.  It is built for easy organization, scalability and speed in mind.  Break your LESS files out into easily managed components, add vendor JS files and any other JS files to enhance your project.  After grunt does its thing, you are left with just ONE CSS FILE and ONE JS FILE.
+It includes a very clear and organized file structure and makes for a great start for any web project.  It is built for easy organization, scalability and speed in mind.  Break your LESS files out into easily managed components, add vendor JS files and any other JS files to enhance your project.  After grunt does its thing, you are left with just ONE CSS FILE and ONE JS FILE.
 
 
 ##Getting Started
@@ -18,8 +18,8 @@ grunt watch
 ```
 
 Grunt will:<br>
-1. Process your LESS files and minify your CSS into ONE CSS FILE.
+1. Process your LESS files and minify your CSS into ONE MINIFIED CSS FILE.
 2. Lint your javascript for issues with JSHint.
-3. Minify and compile your javascript into ONE JAVACRIPT FILE.
+3. Minify and compile your javascript into ONE MINIFIED JAVACRIPT FILE.
 
 Feel free to fork, add / edit the process and send me feedback.  Find me on twitter [@tonyspiro](http://twitter.com/tonyspiro).
