@@ -2,7 +2,9 @@
 
 Grunt Initializr is an HTML5 boilerplate with added [Grunt](http://gruntjs.com/) task managment functionality.  It gives you an easy start to any web project by including the [Bootstrap Initializr](http://www.initializr.com/) and also adds the streamlined workflow power of Grunt to output your code minified and easily organized.
 
-It includes a very clear and organized file structure and makes for a great start for any web project.  It is built for easy organization, scalability and speed in mind.  Break your LESS files out into easily managed components, add vendor JS files and any other JS files to enhance your project.  After grunt does its thing, you are left with just ONE CSS FILE and ONE JS FILE.
+It is built for easy organization, scalability and speed in mind:
+
+Break your LESS files out into easily managed components, add JS files and after grunt does its thing, you are left with just ONE CSS FILE and ONE JS FILE.
 
 
 ##Getting Started
