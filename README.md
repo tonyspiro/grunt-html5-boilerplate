@@ -24,4 +24,5 @@ Grunt will:<br>
 2. Lint your javascript for issues with JSHint.<br>
 3. Minify and compile your javascript into ONE MINIFIED JAVACRIPT FILE.
 
-Feel free to fork, add / edit the process and send me feedback.  Find me on twitter [@tonyspiro](http://twitter.com/tonyspiro).
+Feel free to fork, add / edit the process and send me feedback.<br>
+Find me on twitter [@tonyspiro](http://twitter.com/tonyspiro).
