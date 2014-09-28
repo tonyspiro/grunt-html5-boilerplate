@@ -13,6 +13,7 @@ module.exports = function(grunt){
     js_combine_files : [
       'src/vendor/js/jquery-1.10.1.min.js',
       'src/vendor/js/modernizr-2.6.2-respond-1.1.0.min.js',
+      'src/vendor/js/bootstrap.min.js',
       'src/js/main.js'],
     
     js_hint_files : [
