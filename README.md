@@ -20,7 +20,7 @@ Grunt will:<br>
 2. Lint your javascript for issues with JSHint.<br>
 3. Minify and compile your javascript into ONE MINIFIED JAVACRIPT FILE.
 
-Here is what your code will llook like:
+Here is what index.html will llook like (notice only one css and and one js file from the dist folder):
 ```
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
