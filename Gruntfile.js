@@ -8,7 +8,7 @@ module.exports = function(grunt){
     
     css_combine_files : [
       'src/vendor/css/bootstrap.min.css',
-      'dist/css/main.css'],
+      'src/css/combined.css'],
     
     js_combine_files : [
       'src/vendor/js/jquery-1.10.1.min.js',
@@ -33,7 +33,7 @@ module.exports = function(grunt){
     less: {
       production: {
         files: {
-          "dist/css/main.css" : "src/less/main.less"
+          "src/css/combined.css" : "src/less/main.less"
         }
       }
     },
