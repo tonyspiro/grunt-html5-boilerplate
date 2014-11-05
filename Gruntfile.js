@@ -21,7 +21,6 @@ module.exports = function(grunt){
 
     watch_files : [
       'src/less/*',
-      'src/less/media/*',
       'src/js/*',
       'src/vendor/css/*',
       'src/vendor/js/*']
