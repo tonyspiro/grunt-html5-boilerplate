@@ -1,14 +1,14 @@
-#Grunt Initializr
+#Grunt HTML5 Boilerplate
 
-Grunt Initializr is an HTML5 boilerplate with added [Grunt](http://gruntjs.com/) task managment functionality.  It gives you an easy start to any web project by including the popular [Bootstrap Initializr](http://www.initializr.com/) and also adds the workflow power of Grunt to output your code minified and easily organized.
+Grunt HTML5 Boilerplate is an HTML5 boilerplate with added [Grunt](http://gruntjs.com/) task managment functionality.  It gives you an easy start to any web project by including the popular [Bootstrap Initializr](http://www.initializr.com/) and also adds the workflow power of Grunt to output your code minified and easily organized.
 
 
 ##Getting Started
 
 Clone the repo and run grunt:
 ```
-git clone https://github.com/tonyspiro/grunt-initializr
-cd grunt-initializr
+git clone https://github.com/tonyspiro/grunt-html5-boilerplate
+cd grunt-html5-boilerplate
 grunt
 ```
 You can also run this command to watch files for edits:
@@ -31,7 +31,7 @@ Here is what index.html will look like (notice only one css and and one js file 
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Grunt Initializr</title>
+    <title>Grunt HTML5 Boilerplate</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Les styles -->
