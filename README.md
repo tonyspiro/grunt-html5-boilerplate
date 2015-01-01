@@ -9,6 +9,7 @@ Clone the repo and run grunt:
 ```
 git clone https://github.com/tonyspiro/grunt-html5-boilerplate
 cd grunt-html5-boilerplate
+npm install
 grunt
 ```
 You can also run this command to watch files for edits:
