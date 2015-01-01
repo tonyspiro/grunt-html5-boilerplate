@@ -1,0 +1,30 @@
+{
+  "name": "grunt-html5-boilerplate",
+  "version": "0.0.0",
+  "description": "Grunt HTML5 Boilerplate is an HTML5 boilerplate with added Grunt task managment functionality. It gives you an easy start to any web project by including the popular Bootstrap Initializr and also adds the workflow power of Grunt to output your code minified and easily organized.",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-htmlmin": "^0.3.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-uglify": "^0.5.1",
+    "grunt-contrib-less": "^0.11.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonyspiro/grunt-html5-boilerplate"
+  },
+  "author": "Tony Spiro <tspiro@tonyspiro.com> (http://tonyspiro.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonyspiro/grunt-html5-boilerplate/issues"
+  },
+  "homepage": "https://github.com/tonyspiro/grunt-html5-boilerplate"
+}
