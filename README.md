@@ -1,6 +1,6 @@
 #Grunt HTML5 Boilerplate
 
-Grunt HTML5 Boilerplate is an HTML5 boilerplate with added [Grunt](http://gruntjs.com/) task managment functionality.  It gives you an easy start to any web project by including the popular [Bootstrap Initializr](http://www.initializr.com/) and also adds the workflow power of Grunt to output your code minified and easily organized.
+Grunt HTML5 Boilerplate is an HTML5 boilerplate with added [Grunt](http://gruntjs.com/) task management functionality.  It gives you an easy start to any web project by including the popular [Bootstrap Initializr](http://www.initializr.com/) and also adds the workflow power of Grunt to output your code minified and easily organized.
 
 
 ##Getting Started
